@@ -25,7 +25,7 @@ I will be coordinating this and will release the Table of contents.
 
 # To submit a contribution
 
-Head over to the [contribution guide]() for more details on how to submit your contribution.
+Head over to the [contribution guide](contribution.md) for more details on how to submit your contribution.
 
 # Important links
 
