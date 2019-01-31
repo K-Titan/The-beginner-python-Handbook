@@ -14,9 +14,17 @@ There are many ways to contribute.
 
 First clone the repository:
 
-```sh
+```
 git clone https://github.com/nanjekyejoannah/The-beginner-python-Handbook
-```sh
+```
 
-Open the topics.md file with your favourite editor.
+Open the [topics.md](topics.md) file with your favourite editor. Feel free to add new categories or topics to the existing categories. Save and open a pull request.
+
+We will discuss your suggestion and merge the topic after agreeing.
+
+## How to contribute Writing
+
+TBC
+
+
 
