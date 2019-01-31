@@ -8,15 +8,13 @@ We are still in the beginner phase.
 
 As with all serious things, the following timelines will guide our work on this book.
 
-1st, January to 3oth - March        Topics and content proposal
-
-6th April                           Release of table of draft outline for the book
-
-6th, April   to 3oth September      Writing the book
-
-3oth, September to 30th, October    Copy Editing the book
-9th, November                       Release of the book
-
+| Activity       | Start date          | End Date  |
+| ------------- |:-------------:| -----:|
+|Topics and content proposal      | 1st, January| 30th, March  |
+|  Release of table of draft outline for the book   |   6th, April  | 6th, April 
+|  Writing the book |6th, April|    30th, September   |
+|  Copy Editing the book | 3oth, September      |    30th, October |
+| Release of the book |  9th, November      |    9th, November  | 9th, November |
 Since we are going step by step, If you have a topic you want covered in this book, Add the topic in topic.md and open a pull request.
 
 # Coordination
@@ -29,9 +27,9 @@ Head over to the [contribution guide](contribution.md) for more details on how t
 
 # Important links
 
-IRC : free-node : #pyladieskla
-Twitter:          @pyladieskla
-Github            pyadieskla
+IRC : free-node : #pyladieskla                                                                    
+Twitter:          @pyladieskla                                                                    
+Github            pyadieskla                                                                       
 
 
 
