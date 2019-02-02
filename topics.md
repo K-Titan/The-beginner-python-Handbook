@@ -7,3 +7,6 @@ This a collection of topics that the pyladies community think should be covered.
 *   Installing git.
 
 ## Testing
+## image processing
+## image cropping
+## functions
