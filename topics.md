@@ -5,7 +5,7 @@ This a collection of topics that the pyladies community think should be covered.
 ## Source Control
 *   what is git.
 *   Installing git.
-*   Some of the most important git commands
+*   Some of the most important git commands..
 
 ## Testing
 
@@ -18,3 +18,4 @@ This a collection of topics that the pyladies community think should be covered.
 * Data Mining
 * Data visualisation
 * Machine learning
+*
