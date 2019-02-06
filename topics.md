@@ -7,3 +7,10 @@ This a collection of topics that the pyladies community think should be covered.
 *   Installing git.
 
 ## Testing
+
+## Introduction to Data Science
+* What is Data Science?
+* Python Libraries for Data Science
+* Reading Data; Selecting and Filtering the Data; Data manipulation, sorting, grouping, rearranging
+* Plotting the Data
+* Descriptive Statistics
