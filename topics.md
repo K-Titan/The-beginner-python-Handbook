@@ -18,4 +18,3 @@ This a collection of topics that the pyladies community think should be covered.
 * Data Mining
 * Data visualisation
 * Machine learning
-*
