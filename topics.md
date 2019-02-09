@@ -5,5 +5,5 @@ This a collection of topics that the pyladies community think should be covered.
 ## Source Control
 *   what is git.
 *   Installing git.
-
+*  how to configure git
 ## Testing
