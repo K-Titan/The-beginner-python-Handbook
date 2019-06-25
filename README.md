@@ -14,7 +14,7 @@ As with all serious things, the following timelines will guide our work on this 
 |  Release of table of draft outline for the book   |   6th, April  | 6th, April 
 |  Writing the book |6th, April|    30th, September   |
 |  Copy Editing the book | 3oth, September      |    30th, October |
-| Release of the book |  9th, November      |    9th, November  | 9th, November |
+| Release of the book |  9th, November      |    TBA  | TBA |
 Since we are going step by step, If you have a topic you want covered in this book, Add the topic in topic.md and open a pull request.
 
 # Coordination
