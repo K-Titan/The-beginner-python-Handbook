@@ -4,22 +4,25 @@ This a collection of topics that the pyladies community think should be covered.
 
 ## Python
 
-* functions
+* Functions
+* Python syntax
+* Numpy
+* How to write clean code
 
 ## Source Control
 
-*   what is git.
-*   Installing git.
-*  how to configure git
-*   Some of the most important git commands..
+* What is git.
+* Installing git.
+* How to configure git
+* Some of the most important git commands..
 
 ## Testing
 * Introduction to Testing with pytest
 
 ## images
 
-* image processing
-* image cropping
+* Image processing
+* Image cropping
 
 ## Introduction to Data Science
 
